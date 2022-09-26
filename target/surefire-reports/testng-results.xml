@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-22T14:53:07 PDT" name="Suite" finished-at="2022-09-22T14:53:29 PDT" duration-ms="21827">
+    <groups>
+    </groups>
+    <test started-at="2022-09-22T14:53:07 PDT" name="Test" finished-at="2022-09-22T14:53:29 PDT" duration-ms="21827">
+      <class name="Test_Scenarios.TestMethods_GoogleSearch">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Test_Scenarios.TestMethods_GoogleSearch@54e1c68b]" started-at="2022-09-22T14:53:07 PDT" name="beforetest" finished-at="2022-09-22T14:53:11 PDT" duration-ms="3895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="searchOperations()[pri:0, instance:Test_Scenarios.TestMethods_GoogleSearch@54e1c68b]" started-at="2022-09-22T14:53:11 PDT" name="searchOperations" finished-at="2022-09-22T14:53:23 PDT" duration-ms="12034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperations -->
+        <test-method signature="clickFaceBook()[pri:1, instance:Test_Scenarios.TestMethods_GoogleSearch@54e1c68b]" started-at="2022-09-22T14:53:23 PDT" name="clickFaceBook" finished-at="2022-09-22T14:53:29 PDT" duration-ms="5659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFaceBook -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Test_Scenarios.TestMethods_GoogleSearch@54e1c68b]" started-at="2022-09-22T14:53:29 PDT" name="afterTest" finished-at="2022-09-22T14:53:29 PDT" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test_Scenarios.TestMethods_GoogleSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
