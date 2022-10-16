@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-21T22:03:13 PDT" name="Default suite" finished-at="2022-09-21T22:03:36 PDT" duration-ms="22888">
+  <suite started-at="2022-10-15T20:36:27 PDT" name="Default suite" finished-at="2022-10-15T20:37:04 PDT" duration-ms="36306">
     <groups>
     </groups>
-    <test started-at="2022-09-21T22:03:13 PDT" name="Default test" finished-at="2022-09-21T22:03:36 PDT" duration-ms="22888">
-      <class name="Test_Scenarios.TestMethods_GoogleSearch">
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:Test_Scenarios.TestMethods_GoogleSearch@4686afc2]" started-at="2022-09-21T22:03:13 PDT" name="beforetest" finished-at="2022-09-21T22:03:17 PDT" duration-ms="4604" status="PASS">
+    <test started-at="2022-10-15T20:36:27 PDT" name="Default test" finished-at="2022-10-15T20:37:04 PDT" duration-ms="36306">
+      <class name="Test_Scenarios.TestMethods_SwagLabs">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Test_Scenarios.TestMethods_SwagLabs@65c7a252]" started-at="2022-10-15T20:36:27 PDT" name="beforetest" finished-at="2022-10-15T20:36:30 PDT" duration-ms="2689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method signature="searchOperations()[pri:0, instance:Test_Scenarios.TestMethods_GoogleSearch@4686afc2]" started-at="2022-09-21T22:03:17 PDT" name="searchOperations" finished-at="2022-09-21T22:03:30 PDT" duration-ms="12185" status="PASS">
+        <test-method signature="LoginToSwagLabs()[pri:0, instance:Test_Scenarios.TestMethods_SwagLabs@65c7a252]" started-at="2022-10-15T20:36:30 PDT" name="LoginToSwagLabs" finished-at="2022-10-15T20:37:03 PDT" duration-ms="33280" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- searchOperations -->
-        <test-method signature="clickFaceBook()[pri:1, instance:Test_Scenarios.TestMethods_GoogleSearch@4686afc2]" started-at="2022-09-21T22:03:30 PDT" name="clickFaceBook" finished-at="2022-09-21T22:03:35 PDT" duration-ms="5879" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickFaceBook -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:Test_Scenarios.TestMethods_GoogleSearch@4686afc2]" started-at="2022-09-21T22:03:35 PDT" name="afterTest" finished-at="2022-09-21T22:03:36 PDT" duration-ms="181" status="PASS">
+        </test-method> <!-- LoginToSwagLabs -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Test_Scenarios.TestMethods_SwagLabs@65c7a252]" started-at="2022-10-15T20:37:03 PDT" name="afterTest" finished-at="2022-10-15T20:37:04 PDT" duration-ms="282" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- Test_Scenarios.TestMethods_GoogleSearch -->
+      </class> <!-- Test_Scenarios.TestMethods_SwagLabs -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
